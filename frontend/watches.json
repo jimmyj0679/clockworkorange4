@@ -1,0 +1,11 @@
+[
+  {"Id": 1, "BrandName": "Swatch", "Description": "Great price, water resistant", "Type": "Type digital", "Price": 100.00},
+  {"Id": 2, "BrandName": "Rolex", "Description": "Timeless classic, arrive on time in style", "Type": "Type ananlog", "Price": 200.00},
+  {"Id": 3, "BrandName": "Timex", "Description": "Cheap but reliable like the hands of a ticking clock, easy to set great entry level pieace", "Type": "Type digital", "Price": 69.00},
+  {"Id": 4, "BrandName": "Sieko", "Description": "Simple watch just to go out and about", "Type": "Type analog", "Price": 80.00},
+  {"Id": 5, "BrandName": "Timex", "Description": "The gems on the hands make this a time pieace to use for any event", "Type": "Type analog", "Price": 115.00},
+  {"Id": 6, "BrandName": "Cassio", "Description": "All the mods from date and time to stop watch and underwater depth gauge this one has it all.", "Type": "Type digital", "Price": 300.00},
+  {"Id": 7, "BrandName": "Swatch", "Description": "Simple, effective time keeping at its simplest", "Type": "Type digital", "Price": 95.00},
+  {"Id": 8, "BrandName": "Cassio", "Description": "Rare antique watch, collecters will love this", "Type": "Type analog", "Price": 350.00},
+
+]

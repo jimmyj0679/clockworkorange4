@@ -1,0 +1,46 @@
+# Functional Test Suite for Clock Works Orange - the below is an example test suite to show the functional test i could run for my code.
+
+| Test Case | Expected Result |
+|-----------|-----------------|
+| Clicking on "Products" link | Watches content should be displayed, and the watches API should be fetched | Passed
+| Clicking on "Login" button with valid credentials | Secure content should be displayed | Passed
+| Clicking on "Login" button with invalid credentials | An alert with "Invalid username or password. Try again." should be shown | Passed
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Functional Test Suite</title>
+</head>
+<body>
+    <h1>Functional Test Suite for Clock Works Orange</h1>
+    <table border="1">
+        <tr>
+            <th>Test Case</th>
+            <th>Expected Result</th>
+        </tr>
+        <tr>
+            <td>Clicking on "Products" link</td>
+            <td>Watches content should be displayed, and the watches API should be fetched</td>
+        </tr>
+        <tr>
+            <td>Clicking on "Login" button with valid credentials</td>
+            <td>Secure content should be displayed</td>
+        </tr>
+        <tr>
+            <td>Clicking on "Login" button with invalid credentials</td>
+            <td>An alert with "Invalid username or password. Try again." should be shown</td>
+        </tr>
+        <!-- Add more test cases as needed -->
+    </table>
+
+    <!-- Your Clock Works Orange code goes here -->
+    <script>
+        // Your existing JavaScript code
+        // ...
+    </script>
+</body>
+</html>
+
+
